@@ -1,6 +1,6 @@
 # Git auto push with auto code formatter.
 
-> This script are using laravel/pint for formating code. You don't need  to install script automatically install it if not install .
+> This script are using laravel/pint for formating code. You don't need  to install laravel/pint. This script automatically install laravel/pint if it's not installed in your composer package .
 ### How to use it
 > Put git.sh in your project folder. Then make it executable by using this command.
 
